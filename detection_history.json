@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1759942008679,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:46:48.681Z"
+  },
+  {
+    "id": 1759941925139,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:45:25.139Z"
+  },
+  {
+    "id": 1759941893904,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:44:53.905Z"
+  },
+  {
+    "id": 1759941869897,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:44:29.897Z"
+  },
+  {
+    "id": 1759941862426,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:44:22.426Z"
+  },
+  {
+    "id": 1759941855338,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:44:15.342Z"
+  },
+  {
+    "id": 1759939373598,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:02:53.598Z"
+  },
+  {
+    "id": 1759939240845,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T16:00:40.845Z"
+  },
+  {
+    "id": 1759939068705,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T15:57:48.705Z"
+  },
+  {
+    "id": 1759937554617,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T15:32:34.617Z"
+  },
+  {
+    "id": 1759937138706,
+    "label": "Pepper,_bell___Bacterial_spot",
+    "confidence": "59.32",
+    "date": "2025-10-08T15:25:38.706Z"
+  }
+]
